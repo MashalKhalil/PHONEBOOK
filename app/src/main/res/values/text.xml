@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name">
+        <item>Fatima</item>
+        <item>Emaan</item>
+        <item>Hamna</item>
+        <item>Arhum</item>
+        <item>Mohsin</item>
+        <item>Amna</item>
+        <item>Rubab</item>
+        <item>Asim</item>
+        <item>Abdullah</item>
+        <item>Hafsa</item>
+        <item>Saba</item>
+        <item>Bilal</item>
+        <item>Bhai</item>
+        <item>Farwa</item>
+        <item>Sahar</item>
+    </string-array>
+
+    <string-array name="number">
+        <item>03130533183</item>
+        <item>03125193614</item>
+        <item>03203142315</item>
+        <item>03212217575</item>
+        <item>03115292072</item>
+        <item>03021817149</item>
+        <item>03205658064</item>
+        <item>03016322525</item>
+        <item>03105540597</item>
+        <item>03069275082</item>
+        <item>03160588607</item>
+        <item>03065479260</item>
+        <item>03055022087</item>
+        <item>03150590240</item>
+        <item>03449337293</item>
+    </string-array>
+</resources>
